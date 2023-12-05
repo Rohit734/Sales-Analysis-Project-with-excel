@@ -1,4 +1,4 @@
-# Sales Analysis Project - README
+# Sales Analysis Project
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -7,11 +7,10 @@
 4. [Order Status Analysis](#order-status-analysis)
 5. [Geographic Analysis](#geographic-analysis)
 6. [Sales Channels Analysis](#sales-channels-analysis)
-7. [Visualizations](#visualizations)
-8. [Recommendations](#recommendations)
-9. [Conclusion](#conclusion)
-10. [How to Use](#how-to-use)
-11. [Report Screenshots](#report-screenshots)
+7. [Recommendations](#recommendations)
+8. [Conclusion](#conclusion)
+9. [How to Use](#how-to-use)
+10. [Report Screenshots](#report-screenshots)
 
 ## Overview
 
@@ -45,10 +44,6 @@ This project involves the analysis of sales data for the year 2022 from Vrinda S
 - **Highest Sales Channel:** Amazon (35%)
 - **Combined Contribution of Amazon, Flipkart, and Myntra:** 80%
 
-## Visualizations
-
-- Refer to the attached visualizations for a graphical representation of the key findings.
-
 ## Recommendations
 
 Based on the analysis, the following recommendations are proposed for improving sales in 2023:
@@ -71,5 +66,5 @@ This analysis provides valuable insights into sales patterns, customer demograph
 
 
 ## Report Screenshots
+<img width="1444" alt="Screenshot 2023-12-05 at 4 17 12 PM" src="https://github.com/clypsecode/lead_management_system/assets/85367563/a695e5a4-744b-4c85-af9c-fd02e1fcf570">
 
-- Include screenshots of key sections of your analysis report to provide a visual overview.
